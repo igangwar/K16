@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-26 08:56:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6df22b9adbb42200ec06da11cf961971</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_29177_k16_lab.x_29177_k16.user</sys_name>
